@@ -3,7 +3,7 @@
     position: relative;
     padding: 96px 0;
     text-align: center;
-    border-bottom: #e32879 1px solid;
+    border-bottom: #EB004E 1px solid;
 }
 
 .section >*{
@@ -15,7 +15,7 @@
 #blog .button a{
     margin: 0 20px;
     text-decoration: none;
-    background: #e32879;
+    background: #EB004E;
     color: #ffffff;
     padding: 12px;
     overflow: hidden;
