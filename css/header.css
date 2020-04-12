@@ -27,11 +27,11 @@ header a.title {
 
 .menu {
   float: right;
-  list-style: none;
 }
 
 .menu ul li{
   float: left;
+  list-style: none;
 }
 
 .menu ul li a{
