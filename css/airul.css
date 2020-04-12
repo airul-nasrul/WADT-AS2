@@ -1,0 +1,13 @@
+.content {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.content >*{
+    padding: 10px 10px;
+}
+
+.content img{
+    width: 500px;
+    height: 300px;
+}

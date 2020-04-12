@@ -1,0 +1,22 @@
+.section {
+    width: 100%;
+    position: relative;
+    padding: 96px 0;
+    text-align: center;
+    border-bottom: #e32879 1px solid;
+}
+
+.section >*{
+    width: 70%;
+    margin: 0 auto;
+    padding: 20px 15px;
+}
+
+#blog .button a{
+    margin: 0 20px;
+    text-decoration: none;
+    background: #e32879;
+    color: #ffffff;
+    padding: 12px;
+    overflow: hidden;
+}

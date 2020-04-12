@@ -1,0 +1,19 @@
+.section {
+    padding: 96px 0;
+    border-bottom: #e32879 1px solid;
+}
+
+.section div{
+    width: 500px;
+    border-bottom: #e32879 1px solid;
+    margin: 0 auto;
+    padding: 10px 0;
+}
+
+.section div a{
+    text-decoration: none;
+}
+
+.section div p{
+    color: #e32879;
+}
